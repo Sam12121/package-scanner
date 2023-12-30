@@ -8,8 +8,8 @@ require (
 	github.com/Jeffail/tunny v0.1.4
 	github.com/aws/aws-sdk-go v1.45.21
 	github.com/Sam12121/agent-plugins-grpc v1.1.0
-	github.com/Sam12121/golang_toae_sdk/client v0.0.0-20231201173641-092afefd00a2
-	github.com/Sam12121/golang_toae_sdk/utils v0.0.0-20231201173641-092afefd00a2
+	github.com/Sam12121/golang_toae_sdk/client v0.0.0-20231230192613-6905244251f0
+	github.com/Sam12121/golang_toae_sdk/utils v0.0.0-20231230192613-6905244251f0
 	github.com/Sam12121/vessel v0.12.0
 	github.com/gin-gonic/gin v1.9.1
 	github.com/google/uuid v1.3.1
