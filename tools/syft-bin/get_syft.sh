@@ -19,6 +19,7 @@ git clone https://github.com/Sam12121/syft.git --branch optimise-resolver-2 || t
 (
     cd syft/cmd/syft
     export CGO_ENABLED=0
+    go get github.com/anchore/syft/cmd/syft/cli
     GOOS="$BUILD_OS" GOARCH="$BUILD_ARCH" go build -o syft.bin .
     cp syft.bin ../../../
 )
